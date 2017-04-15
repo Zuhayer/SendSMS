@@ -13,6 +13,8 @@ git clone https://github.com/Jessiegao1994/SendSMS
 cd SendSMS
 # Install dependencies
 npm install
+# Install Twilio Library
+npm install twilio
 # Run the app
 npm start
 ```
