@@ -4,7 +4,7 @@
 
 ## To Use
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. This app also requires you have an account setup with [Twilio](https://twilio.com/) From your command line:
 
 ```bash
 # Clone this repository
@@ -15,6 +15,8 @@ cd SendSMS
 npm install
 # Install Twilio Library
 npm install twilio
+# Set Secret ID, Auth Key, & Twilio Phone Number
+edit index.html at lines 53, 54, and 78 with your information.
 # Run the app
 npm start
 ```
