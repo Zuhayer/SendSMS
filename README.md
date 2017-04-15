@@ -4,11 +4,11 @@
 
 ## To Use
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. This app also requires you have an account setup with [Twilio](https://twilio.com/) From your command line:
+To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. This app also requires you have an account setup with [Twilio](https://twilio.com/). From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/Jessiegao1994/SendSMS
+git clone https://github.com/popesites/SendSMS
 # Go into the repository
 cd SendSMS
 # Install dependencies
